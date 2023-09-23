@@ -1,0 +1,13 @@
+**visit to github for more projects!***
+
+**Database Name: hostelmsphp**
+
+**Developed by Manoj Kale**
+
+**Recommended PHP Version 5.6, 7.4**
+
+
+**Admin Login Details**
+
+Username: admin
+Password: Password@123
